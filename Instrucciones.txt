@@ -1,0 +1,6 @@
+Al momento que tengas una duda, avisas en el mismo momento
+
+1. Enviar Usuario o Correo al profesor por webex
+2. Ingresar a Github
+3. Clonar el repositorio
+4. Pullear el repositorio si está desactualizado
