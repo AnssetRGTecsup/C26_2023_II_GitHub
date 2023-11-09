@@ -6,4 +6,11 @@ public class PlayerData{
         this.MaxHP = MaxHP;
         this.CurrentHP = MaxHP;
     }
+
+    PlayerData NewPlayerData = new PlayerData();
+
+    void DamagePlayer(int currentHp)
+    {
+        currentHp = NewPlayerData.CurrentHP - 10;
+    }
 }
