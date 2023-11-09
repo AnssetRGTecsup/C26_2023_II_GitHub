@@ -6,7 +6,7 @@ public class PlayerData{
         this.MaxHP = MaxHP;
         this.CurrentHP = MaxHP;
     }
-    private void RecibirDaño(int damage)
+    private void DamagePlayer(int damage)
     {
         CurrentHP -= damage;
     }
